@@ -8,6 +8,10 @@ android {
     namespace = "com.dicoding.footballplayer"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.dicoding.footballplayer"
         minSdk = 21
