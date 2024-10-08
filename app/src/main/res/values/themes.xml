@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FootballPlayer" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/your_primary_color</item>
+        <item name="colorPrimaryDark">@color/your_primary_dark_color</item>
+        <item name="colorAccent">@color/your_accent_color</item>
+    </style>
+
+    <style name="Theme.FootballPlayer" parent="Base.Theme.FootballPlayer" />
+    <style name="noActionBar" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Football Player</string>
+
+    <string name="heroes_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="name_profile">Muhammad Nafis Hafi</string>
+    <string name="email_profile">hafige01@gmail.com</string>
+    <string name="detail_player">Detail Player</string>
+    <string-array name="data_name">
+        <item>Cristiano Ronaldo</item>
+        <item>Lionel Messi</item>
+        <item>Neymar Jr.</item>
+        <item>Sergio Ramos</item>
+        <item>Gianluigi Buffon</item>
+        <item>Kylian Mbappé</item>
+        <item>Jude Bellingham</item>
+        <item>Vinícius Júnior</item>
+        <item>Lamine Yamal</item>
+        <item>Toni Kroos</item>
+        <item>Xavi</item>
+        <item>Andrés Iniesta</item>
+        <item>Luka Modrić</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Cristiano Ronaldo dos Santos Aveiro adalah pemain sepak bola profesional Portugal yang bermain di klub Arab Saudi Al-Nassr FC sebagai penyerang dan juga kapten tim nasional Portugal. Sering dianggap sebagai pemain terbaik di dunia dan secara luas dianggap sebagai salah satu pemain terhebat sepanjang masa, Ronaldo memenangkan lima penghargaan Ballon dOr  dan empat Sepatu Emas Eropa. Ia sejauh ini memenangkan 35 trofi sepanjang kariernya, termasuk tujuh gelar liga, lima Liga Champions UEFA, satu Kejuaraan Eropa UEFA dan satu Liga Negara UEFA.</item>
+        <item>Lionel Andrés "Leo" Messi adalah pemain sepak bola profesional Argentina yang bermain sebagai penyerang untuk klub Major League Soccer, Inter Miami CF dan merupakan kapten timnas Argentina. Dianggap luas sebagai pemain terhebat sepanjang masa.Messi telah memenangkan delapan penghargaan Ballon dOr dan enam Sepatu Emas Eropa. Di tim nasional negara ia juga telah memenangkan 2 Copa América dan 1 Piala Dunia FIFA. Ia juga merupakan salah satu pemain dengan trofi terbanyak dalam sejarah sepak bola, dengan 45 trofi.</item>
+        <item>Neymar da Silva Santos Júnior yang umumnya dikenal sebagai Neymar atau Neymar Jr, adalah pemain sepak bola profesional Brasil yang bermain untuk klub Arab Saudi Al-Hilal. Dia bermain sebagai penyerang atau pemain sayap. Dia dikenal karena akselerasinya, keterampilan dribbling, finishing dan kemampuan dengan kedua kaki. Gaya permainannya telah mendapat pujian kritis, oleh penggemar, media dan mantan pemain yang menggambarkan dan membandingkan dengan mantan striker Brasil Pelé, yang telah memanggil Neymar sebagai "pemain yang sangat baik", sementara Ronaldinho telah menyatakan "ia akan menjadi yang terbaik di dunia".</item>
+        <item>Sergio Ramos García adalah seorang pemain sepak bola profesional Spanyol yang bermain sebagai bek tengah. Secara luas dianggap sebagai salah satu pemain terhebat sepanjang masa, Ramos dikenal karena keterampilan tekelnya, kemampuan udara, kepemimpinannya, dan kemampuan mencetak golnya, telah mencetak lebih dari 100 gol untuk Real Madrid. Ia bermain di Real Madrid selama enam belas musim, memenangkan beberapa gelar Liga Champions UEFA saat berada di klub tersebut, bersama dengan dua Kejuaraan Eropa UEFA dan Piala Dunia FIFA 2010 bersama tim nasional Spanyol.</item>
+        <item>Gianluigi "Gigi" Buffon adalah mantan pemain sepak bola profesional Italia yang bermain sebagai penjaga gawang . Secara luas dianggap sebagai salah satu penjaga gawang terhebat sepanjang masa, ia adalah salah satu dari sedikit pemain yang tampil lebih dari 1.100 kali dalam karier profesionalnya dan ia memegang rekor penampilan terbanyak di Serie A.</item>
+        <item>Kylian Mbappé Lottin adalah pemain sepak bola profesional Perancis yang bermain sebagai penyerang untuk klub La Liga Real Madrid dan menjadi kapten tim nasional Perancis. Secara luas dianggap sebagai salah satu pemain terbaik di dunia, ia dikenal karena dribbling, penyelesaian akhir, dan kecepatannya. Mbappé finis di posisi ketiga Ballon dOr 2023 dan menjadi runner-up penghargaan Pemain Pria Terbaik FIFA 2022. Dia masuk dalam FIFA FIFPro World11 pada tahun 2018, 2019, 2022 dan 2023, Tim Terbaik UEFA pada tahun 2018 dan Skuad Terbaik Liga Champions UEFA Musim Ini pada tahun 2016–17, 2019–20, 2020–21 dan 2021–22.</item>
+        <item>Jude Victor William Bellingham adalah pemain sepak bola profesional Inggris yang bermain sebagai gelandang untuk klub La Liga Real Madrid dan tim nasional Inggris . Ia dianggap sebagai salah satu pemain terbaik di dunia. Ia bergabung dengan Borussia Dortmund pada bulan Juli 2020, dan dalam penampilan pertamanya menjadi pencetak gol termuda mereka. Selama tiga musim bersama klub tersebut, ia membuat 132 penampilan dan memenangkan DFB-Pokal 2020–21 ; penampilannya di musim 2022–23 membantu Dortmund finis sebagai runner-up dan membuatnya mendapatkan penghargaan Pemain Terbaik Bundesliga Musim Ini. Bellingham kemudian menandatangani kontrak dengan Real Madrid dengan biaya € 103 juta, dan pada musim pertamanya, menjadi pencetak gol terbanyak liga klub, membantu mereka memenangkan gelar liga dan Liga Champions, dan terpilih sebagai Pemain Terbaik La Liga Musim Ini.</item>
+        <item>Vinícius José Paixão de Oliveira Júnior yang lebih dikenal sebagai Vinícius Júnior atau Vini Jr. , adalah seorang pemain sepak bola profesional Brasil yang bermain sebagai pemain sayap kiri atau penyerang untuk klub La Liga Real Madrid dan tim nasional Brasil . Dianggap sebagai salah satu pemain terbaik di dunia, ia dikenal karena kecepatan dan kemampuan menggiring bolanya. Di masa mudanya bersama Brasil, Vinícius merupakan pemain kunci dalam kemenangan di Kejuaraan U-15 Amerika Selatan 2015 dan Kejuaraan U-17 Amerika Selatan 2017 , dan menjadi pencetak gol terbanyak di kompetisi tersebut. Ia melakoni debut seniornya pada tahun 2021 dan membantu negaranya menjadi runner-up di Copa América 2021 , juga mewakili Brasil di Piala Dunia FIFA 2022 di Qatar dan Copa América 2024 di Amerika Serikat.</item>
+        <item>Lamine Yamal Nasraoui Ebana adalah pemain sepak bola Spanyol yang bermain sebagai penyerang untuk Barcelona dan tim nasional Spanyol. Dianggap sebagai talenta muda terbaik di dunia, ia memenangkan 1 gelar La Liga Santander dan 1 Piala Euro, tepatnya pada tahun 2024. Tumbuh melalui jajaran pemuda La Masia, Yamal segera dipandang sebagai salah satu prospek terbaik akademi. amal dipilih oleh Xavi untuk berlatih bersama tim utama bersama pemain muda lainnya pada awal September 2022. Dia melakukan debut tim utama pada 29 April 2023, menggantikan Gavi pada menit ke-83 dalam kemenangan 4-0 melawan Real Betis di La Liga, menjadi pemain termuda yang pernah tampil untuk tim utama Barcelona pada usia 15 tahun, 9 bulan, dan 16 hari.</item>
+        <item>Toni Kroos adalah mantan pemain sepak bola profesional Jerman . Secara luas dianggap sebagai salah satu gelandang terhebat sepanjang masa, ia dikenal karena visinya, umpan, umpan silang, dan kemampuan bola matinya. Kroos bermain terutama sebagai gelandang tengah , tetapi ia juga kadang-kadang bermain sebagai gelandang bertahan. Kroos adalah pemain sepak bola Jerman yang paling berprestasi, karena ia memenangkan 34 trofi selama 17 tahun kariernya. Di Madrid, Kroos memenangkan dua puluh satu trofi, termasuk empat gelar La Liga dan lima trofi Liga Champions UEFA , tiga di antaranya dimenangkannya secara berturut-turut dari tahun 2016 hingga 2018. Ia dinobatkan sebagai tim Liga Champions musim ini setiap kali. Ia dinobatkan sebagai Tim Terbaik FIFA FIFPRO World 11 dan UEFA masing -masing tiga kali, dan Tim Terbaik La Liga Musim Ini dua kali. Ia dinobatkan sebagai Playmaker Terbaik Dunia IFFHS pada tahun 2014 dan Pemain Terbaik Jerman Tahun Ini pada tahun 2018 dan 2024.</item>
+        <item>Xavier Hernández Creus lebih dikenal sebagai Xavi, adalah pelatih dan mantan pemain sepak bola profesional Spanyol serta mantan pelatih klub La Liga, Barcelona. Secara luas ia dianggap sebagai salah satu gelandang terbaik sepanjang masa, Xavi terkenal karena operannya, visinya, retensinya pada bola, dan kepandaianya menetukan posisi ketika bermain. Xavi bergabung dengan La Masia, akademi remaja Barcelona, pada usia 11 tahun, dan melakukan debut di tim utama melawan Mallorca pada Agustus 1998. Secara keseluruhan, ia memainkan 767 pertandingan resmi, sebuah rekor klub pada masanya (sekarang rekor dipegang oleh Lionel Messi) dan mencetak 85 gol.</item>
+        <item>Andrés Iniesta Lujan adalah seorang mantan pemain sepak bola profesional Spanyol yang bermain sebagai gelandang. Secara luas dianggap sebagai salah satu gelandang terhebat sepanjang masa,  ia dipuji karena keseimbangannya, kontrol bola, dan kelincahannya di ruang sempit, dikombinasikan dengan keterampilan, ketenangan, dan bakatnya dalam mengolah bola. Iniesta menghabiskan sebagian besar kariernya di Barcelona, ​​di mana ia memainkan peran utama dalam kesuksesan klub bersama dengan rekan lini tengahnya Xavi dan Sergio Busquets. Iniesta telah masuk dalam FIFA FIFPro World XI sebanyak sembilan kali dan terpilih dalam UEFA Team of the Year sebanyak enam kali. Ia masuk dalam All-time UEFA Euro XI. Ia memenangkan Penghargaan Pemain Terbaik UEFA di Eropa pada tahun 2012 dan dinobatkan sebagai IFFHS Worlds Best Playmaker pada tahun 2012 dan 2013. Selain posisi runner-up pada tahun 2010, ia juga meraih posisi ketiga dalam Ballon dOr 2012.</item>
+        <item>Luka Modrić adalah seorang pemain sepak bola profesional Kroasia yang bermain sebagai gelandang dan kapten untuk klub La Liga Real Madrid dan tim nasional Kroasia. Ia dianggap sebagai salah satu gelandang terhebat sepanjang masa,  dan sebagai pemain sepak bola Kroasia terbaik yang pernah ada. Ia bermain terutama sebagai gelandang tengah, tetapi juga dapat bermain sebagai gelandang serang. Modrić telah memenangkan banyak penghargaan individu, termasuk Ballon dOr pada tahun 2018, menjadikannya pemain pertama selain Lionel Messi atau Cristiano Ronaldo yang memenangkan penghargaan tersebut sejak tahun 2007, Pemain Pria Terbaik FIFA , dan Pemain Pria Terbaik UEFA, juga dinobatkan sebagai Playmaker Terbaik Dunia IFFHS pada tahun 2018. Ia juga telah dinobatkan dalam FIFPRO World 11 sebanyak enam kali dan Tim Terbaik UEFA sebanyak tiga kali. Pada tahun 2019, ia dianugerahi penghargaan Golden Foot untuk hasil karier dan kepribadiannya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/messi</item>
+        <item>@drawable/neymar</item>
+        <item>@drawable/ramos</item>
+        <item>@drawable/buffon</item>
+        <item>@drawable/mbapee</item>
+        <item>@drawable/bellingham</item>
+        <item>@drawable/vinicius</item>
+        <item>@drawable/yamal</item>
+        <item>@drawable/kross</item>
+        <item>@drawable/xavi</item>
+        <item>@drawable/inesta</item>
+        <item>@drawable/modric</item>
+    </integer-array>
+    <string name="title_activity_splash_screen2">SplashScreen2</string>
+    <string-array name="data_date">
+        <item>5 Feb 1985</item>
+        <item>24 Jun 1987</item>
+        <item>5 February 1992</item>
+        <item>30 Mar 1986</item>
+        <item>28 Jan 1978</item>
+        <item>20 Des 1998</item>
+        <item>29 Jun 2003</item>
+        <item>12 Jul 2000</item>
+        <item>13 Jul 2007</item>
+        <item>4 Jan 1990</item>
+        <item>25 Jan 1980</item>
+        <item>11 Mei 1984</item>
+        <item>9 Sep 1985</item>
+
+    </string-array>
+
+    <string-array name="data_citizenship">
+        <item>Portugal</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Spanyol</item>
+        <item>Italia</item>
+        <item>Prancis</item>
+        <item>Inggris</item>
+        <item>Brazil</item>
+        <item>Spanyol</item>
+        <item>Jerman</item>
+        <item>Spanyol</item>
+        <item>Spanyol</item>
+        <item>Kroasia</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>1,88 m</item>
+        <item>1,70 m</item>
+        <item>1,75 m</item>
+        <item>1,84 m</item>
+        <item>1,92 m</item>
+        <item>1,78 m</item>
+        <item>1,86 m</item>
+        <item>1,76 m</item>
+        <item>1,80 m</item>
+        <item>1,83 m</item>
+        <item>1,70 m</item>
+        <item>1,71 m</item>
+        <item>1,72 m</item>
+    </string-array>
+
+    <string-array name="data_position">
+        <item>Depan-Tengah</item>
+        <item>Pemain sayap kanan</item>
+        <item>Pemain sayap kiri</item>
+        <item>Bek Tengah</item>
+        <item>Penjaga gawang</item>
+        <item>Depan-Tengah</item>
+        <item>Gel. Serang</item>
+        <item>Pemain sayap kiri</item>
+        <item>Pemain sayap kanan</item>
+        <item>Gelandang Tengah</item>
+        <item>Gel. Tengah</item>
+        <item>Gel. Tengah</item>
+        <item>Gel. Tengah</item>
+    </string-array>
+</resources>
